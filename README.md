@@ -1,7 +1,7 @@
  👋 Hi, I’m Pramod Kumar Sahu
 
  🚀 About Me
-Motivated engineering student with expertise in **IoT**, **embedded systems**, and **development**. Passionate about building innovative solutions through technology and innovation.
+Motivated engineering student with expertise in  **development** , **IoT**,  and  **embedded systems**. Passionate about building innovative solutions through technology and innovation.
 
 - 🌱 I’m currently learning: Advanced Embedded Systems, Mobile App Integration
 - 👀 I’m interested in: IoT Projects, Embedded Systems, Smart Systems, Tech Innovations
@@ -13,9 +13,9 @@ Motivated engineering student with expertise in **IoT**, **embedded systems**, a
 ---
 
  🛠️ Technical Skills
-- **Programming Languages**: C, C++
+- **Programming Languages**: C, C++, python 
 - **Web Development**: HTML, CSS, JavaScript
-- **IoT & Embedded Systems**: Arduino, ESP8266, ESP32, MPU6050, Ultrasonic Sensors
+- **IoT & Embedded Systems**: Arduino, ESP8266, ESP32, MPU6050,  Raspberry Pi ,Ultrasonic Sensors ,
 - **Data Analysis & Visualization**: Excel, Power BI
 - **Tools & Platforms**: Arduino IDE, Visual Studio Code, XPlore
 - **Mobile App Integration**: ESP Wi-Fi module for smartphone-based control and monitoring
